@@ -1,4 +1,3 @@
-# Calculadora-Phyton
 # 🧮 Calculadora em Python
 
 Este é um projeto simples de **calculadora em Python**.  
